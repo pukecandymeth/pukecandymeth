@@ -1,4 +1,4 @@
-<font family="Fantasy">
+<font family="Courier">
 
 :wave: Hi! My name is <font color="green">Michelle</font>. I am an aspiring computer science engineer. 
 
