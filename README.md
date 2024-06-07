@@ -10,7 +10,7 @@
 
 <b>🪐All About Michelle🪐</b>
 <br>
-- :rocket: I am currently enrolled at IES College of Engineering pursuing my degree in Commputer Science Engineering.
+- :rocket: I am currently enrolled at IES College of Engineering pursuing my degree in Computer Science Engineering.
 - :dizzy: I like intense conversations and brightly coloured beverages :tropical_drink:.
 - :tv: Currently binging Mr Robot and wondering how to center a div. (<i>I also have an excellent sense of humour</i>)
 - :writing_hand: Always creating.
@@ -21,3 +21,5 @@
   </a>
 </div>
 
+
+<font color="green">HIIIII</font>
