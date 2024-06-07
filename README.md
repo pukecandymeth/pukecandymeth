@@ -10,9 +10,9 @@ Hi! My name is Michelle. I am an aspiring computer science engineer.
 
 ###
 <b>🪐All About Michelle🪐</b>
--
--
--
+-d
+-dd
+-d
 - Click to follow my LinkedIn <div id="badges" align="50%">
   <a href=https://www.linkedin.com/in/michelle-a-956893253/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
