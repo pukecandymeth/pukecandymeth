@@ -9,8 +9,8 @@ Hi! My name is Michelle. I am an aspiring computer science engineer.
 ###
 <b>🪐All About Michelle🪐</b>
 <br>
-- I am currently enrolled at IES College of Engineering pursuing my degree in Commputer Science Engineering.
-- I like intense conversations and brightly coloured beverages.
+- :rocket: I am currently enrolled at IES College of Engineering pursuing my degree in Commputer Science Engineering.
+- I like :dizzy: intense conversations and :tropical_drink: brightly coloured beverages.
 - Currently binging The Mentalist and learning to center a div
 - 
 - Click to follow my LinkedIn <div id="badges" align="50%">
