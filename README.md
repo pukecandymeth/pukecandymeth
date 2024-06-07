@@ -14,7 +14,7 @@
 <br>
 - :rocket: I am currently enrolled at IES College of Engineering pursuing my degree in Commputer Science Engineering.
 - :dizzy: I like intense conversations and brightly coloured beverages :tropical_drink:.
-- :tv: Currently binging The Mentalist and learning to center a div. (<i>I also have an excellent sense of humour</i>)
+- :tv: Currently binging Mr Robot and wondering how to center a div. (<i>I also have an excellent sense of humour</i>)
 - :writing_hand: Always creating.
 - :brain: I love learning.
 - Click to follow my LinkedIn.<div id="badges" align="50%">
