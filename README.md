@@ -1,26 +1,6 @@
 
 :wave: Hi! My name is Michelle. I am an aspiring computer science engineer. 
 
-<div align="center">
-  <style>
-    .cube-container {
-      width: 150px;
-      height: 150px;
-      perspective: 1000px;
-      margin: 40px auto;
-    }
-  </style>
-
-  <div class="cube-container">
-    <div class="cube">
-      <div class="cube-face front">Front</div>
-      <div class="cube-face back">Back</div>
-      <div class="cube-face right">Right</div>
-      <div class="cube-face left">Left</div>
-      <div class="cube-face top">Top</div>
-      <div class="cube-face bottom">Bottom</div>
-    </div>
-  </div>
 
 </div>
 <div id="header" align="center">
