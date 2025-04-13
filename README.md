@@ -9,42 +9,6 @@
       perspective: 1000px;
       margin: 40px auto;
     }
-
-    .cube {
-      width: 100%;
-      height: 100%;
-      position: relative;
-      transform-style: preserve-3d;
-      transform: translateZ(-75px);
-      animation: rotate-cube 15s infinite linear;
-    }
-
-    .cube-face {
-      position: absolute;
-      width: 150px;
-      height: 150px;
-      border: 1px solid #555;
-      background-color: rgba(60, 60, 60, 0.8);
-      color: #fff;
-      font-size: 16px;
-      font-weight: bold;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      backface-visibility: hidden;
-    }
-
-    .front  { transform: rotateY(  0deg) translateZ(75px); background-color: rgba(0, 120, 215, 0.8); }
-    .back   { transform: rotateY(180deg) translateZ(75px); background-color: rgba(215, 0, 0, 0.8); }
-    .right  { transform: rotateY( 90deg) translateZ(75px); background-color: rgba(0, 215, 0, 0.8); }
-    .left   { transform: rotateY(-90deg) translateZ(75px); background-color: rgba(215, 215, 0, 0.8); }
-    .top    { transform: rotateX( 90deg) translateZ(75px); background-color: rgba(215, 0, 215, 0.8); }
-    .bottom { transform: rotateX(-90deg) translateZ(75px); background-color: rgba(0, 215, 215, 0.8); }
-
-    @keyframes rotate-cube {
-      from { transform: rotateX(0deg) rotateY(0deg); }
-      to   { transform: rotateX(360deg) rotateY(360deg); }
-    }
   </style>
 
   <div class="cube-container">
