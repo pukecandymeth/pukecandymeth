@@ -13,9 +13,6 @@
     <a href="https://github.com/YOUR_GITHUB_USERNAME">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
     </p>
 
   <h3>📊 My GitHub Stats</h3>
